@@ -1,0 +1,1 @@
+// The main React component file content you provided
